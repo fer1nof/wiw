@@ -27,5 +27,10 @@
     "color" : "green",
     "cost": "100"
 }
+{
+    "name": "shoes",
+    "color" : "black",
+    "cost": "200"
+}
 ]
 

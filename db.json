@@ -1,27 +1,31 @@
+"users":[
 {
-    "users" :
-    [
-        {
-        "id": "23",
-        "name":"Artem" ,
-        "surname": "Buch" ,
-        "photo_url" : "https://radiotrek.rv.ua/uploads/media/fb/bf/fbbf88c61473958cac77e39f3be1ae7b_w640.jpg",
-        "bаlаnсе" : "2000"
-        },
-
-        {
-            "id": "1144",
-            "name":"eijrle" ,
-            "surname": "ergevav" ,
-            "photo_url" : "https://radiotrek.rv.ua/uploads/media/fb/bf/fbbf88c61473958cac77e39f3be1ae7b_w640.jpg",
-            "bаlаnсе" : "anlimited"
-        }
-    ],
-    "products":[
-        {
-            "name": "bag",
-            "color" : "green",
-            "cost": "100"
-        }
-    ]
+	"id":12,
+    "name":"Ivan",
+    "sirname":"krotov",
+    "pthoto_url":"https://www.interfax.ru/ftproot/photos/photostory/2021/06/11/week4_1100.jpg",
+    "balance":9123,
+},
+{
+    "id": "1144",
+    "name":"eijrle" ,
+    "surname": "ergevav" ,
+    "photo_url" : "https://radiotrek.rv.ua/uploads/media/fb/bf/fbbf88c61473958cac77e39f3be1ae7b_w640.jpg",
+    "bаlаnсе" : "anlimited"
+},
+{
+    "id": "23",
+    "name":"Artem" ,
+    "surname": "Buch" ,
+    "photo_url" : "https://radiotrek.rv.ua/uploads/media/fb/bf/fbbf88c61473958cac77e39f3be1ae7b_w640.jpg",
+    "bаlаnсе" : "2000"
 }
+],
+"products":[
+{
+    "name": "bag",
+    "color" : "green",
+    "cost": "100"
+}
+]
+

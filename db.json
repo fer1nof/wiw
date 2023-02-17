@@ -15,5 +15,12 @@
             "photo_url" : "https://radiotrek.rv.ua/uploads/media/fb/bf/fbbf88c61473958cac77e39f3be1ae7b_w640.jpg",
             "bаlаnсе" : "anlimited"
         }
+    ],
+    "products":[
+        {
+            "name": "bag",
+            "color" : "green",
+            "cost": "100"
+        }
     ]
 }
